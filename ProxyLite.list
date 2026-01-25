@@ -3,10 +3,18 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,apkpure
+DOMAIN-KEYWORD,meta
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
